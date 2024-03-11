@@ -1,7 +1,7 @@
 # RGA
 
 # Graph Augmentation for Recommendation (ICDE'2024) #
-This is the implementation of Robust Graph Augmentation for Recommendation:
+This is the implementation of Graph Augmentation for Recommendation:
 
 ## Requirements ##
 Pytorch = 1.12.1, python = 3.9.13
