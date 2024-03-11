@@ -1,6 +1,6 @@
 # RGA
 
-# Robust Graph Augmentation for Recommendation (ICDE'2024) #
+# Graph Augmentation for Recommendation (ICDE'2024) #
 This is the implementation of Robust Graph Augmentation for Recommendation:
 
 ## Requirements ##
