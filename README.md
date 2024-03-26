@@ -1,6 +1,4 @@
-# RGA
-
-# Graph Augmentation for Recommendation (ICDE'2024) #
+# GraphAug: Graph Augmentation for Recommendation (ICDE'2024) #
 This is the implementation of Graph Augmentation for Recommendation:
 
 ## Requirements ##
