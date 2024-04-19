@@ -19,3 +19,13 @@ The hidden dimensionality is  set as 32 to achieve their best performance as rep
 Firstly you need to unzip data. Then you need to create ../History directory and ../Models directory. Then you can run the code following the order.
 
 
+## Citing ##
+If our paper benefits to your research, please cite our paper using the bitex below:
+
+    @article{zhang2024graph,
+  title={Graph Augmentation for Recommendation},
+  author={Zhang, Qianru and Xia, Lianghao and Cai, Xuheng and Yiu, Siuming and Huang, Chao and Jensen, Christian S},
+  journal={arXiv preprint arXiv:2403.16656},
+  year={2024}
+
+     }
