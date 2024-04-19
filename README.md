@@ -11,10 +11,11 @@ The for Retail Roacket data and Amazon data are https://www.kaggle.com/datasets/
 ## Hyperparameters ##
 The hidden dimensionality is  set as 32 to achieve their best performance as reported results. The learning rate is initialized as 0.001 with weight decay 0.96. The number of message passing iterations is selected from [1,2,3]. The slope of LeakyRelu is 0.5. The temperature parameter is set as 0.9 of contrastive  learning when the model achieves the best results. The threshold for filtering edges is chosen from [0.0, 0.2, 0.4, 0.6, 0.8]  and the model achieves the best performance when threshold is set as 0.2. The weight for loss for optimizing information bottleneck is 0.00001, which is searched from the range [0.000001, 0.00001, 0.0001, 0.001]. The weight for contrastive learning loss and regularization term is set as 1.0. The weight decay  is 0.0000007. 
 
+![Framework](./pictures/results.png)
 ## How to Run the Code
     python Main.py --data gowalla   
     python Main.py --data retail_rocket
     python Main.py --data kindle
 Firstly you need to unzip data. Then you need to create ../History directory and ../Models directory. Then you can run the code following the order.
 
-![Framework](./pictures/results.png)
+
