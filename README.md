@@ -2,7 +2,7 @@
 # GraphAug: Graph Augmentation for Recommendation (ICDE'2024) #
 This is the implementation of Graph Augmentation for Recommendation:
 
-## Exoeriments ##
+## Experiments ##
 Pytorch = 1.12.1, python = 3.9.13
 
 ## Data ##
