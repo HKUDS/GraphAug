@@ -1,3 +1,4 @@
+![Framework](./pictures/framework.png)
 # GraphAug: Graph Augmentation for Recommendation (ICDE'2024) #
 This is the implementation of Graph Augmentation for Recommendation:
 
@@ -16,4 +17,4 @@ The hidden dimensionality is  set as 32 to achieve their best performance as rep
     python Main.py --data kindle
 Firstly you need to unzip data. Then you need to create ../History directory and ../Models directory. Then you can run the code following the order.
 
-
+![Framework](./pictures/results.png)
